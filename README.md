@@ -10,3 +10,6 @@ Total =  72 bytes
 2. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber
 program, what does it mean?<br>
 Sama untuk menghubungkan ke RabbitMQ dan dirun di local dan kedua program dapat bertukar pesan
+
+3. Edit Blocker <br>
+![alt text](image.png)
