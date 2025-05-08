@@ -16,4 +16,6 @@ Sama untuk menghubungkan ke RabbitMQ dan dirun di local dan kedua program dapat 
 
 4. 
 ![alt text](image1.png) <br>
-![alt text](image2.png)
+![alt text](image2.png)<br>
+5.
+![alt text](image3.png)
