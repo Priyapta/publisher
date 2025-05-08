@@ -13,3 +13,7 @@ Sama untuk menghubungkan ke RabbitMQ dan dirun di local dan kedua program dapat 
 
 3. Edit Blocker <br>
 ![alt text](image.png)
+
+4. 
+![alt text](image1.png) <br>
+![alt text](image2.png)
