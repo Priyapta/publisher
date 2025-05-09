@@ -14,8 +14,11 @@ Sama untuk menghubungkan ke RabbitMQ dan dirun di local dan kedua program dapat 
 3. Edit Blocker <br>
 ![alt text](image.png)
 
-4. 
+4. Sending and Processing Event
 ![alt text](image1.png) <br>
 ![alt text](image2.png)<br>
-5.
+Setelah menjalankan beberapa cargo run pada console publisher, console subscriber langsung muncul 5 data message bertahap-tahap, sesuai dengan program.
+
+5. Hasil Chart setelah beberapa cargo run
 ![alt text](image3.png)
+Muncul spike pada chart kedua karena pengiriman request cargo run berkali-kali pada publisher yang menyebabkan spiking pada message rates yang diterima subscriber
